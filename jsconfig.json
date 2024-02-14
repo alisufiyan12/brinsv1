@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "scripts":{
+    "build": "NODE_OPTIONS='--trace-deprecation' webpack",
+  },
+}
